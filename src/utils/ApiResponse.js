@@ -6,3 +6,5 @@ class ApiResponse extends Error {
     this.data = data;
   }
 }
+
+export { ApiResponse };
